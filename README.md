@@ -122,8 +122,8 @@ Building intelligent, scalable systems for real-world problems
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/KollipakulaNikhil  
+- 📧 Email: kollipakulanikhil21@gmail.com 
 
 ---
 
