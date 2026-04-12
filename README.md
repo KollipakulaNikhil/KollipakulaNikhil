@@ -1,95 +1,133 @@
-# 👋 Hi, I'm Nikhil
+<!-- ================= HEADER ================= -->
+<h1 align="center">👋 Hi, I'm Nikhil</h1>
 
-🚀 Full Stack Developer | AI Enthusiast  
-🤖 Building intelligent systems for real-world problems  
-📍 India  
+<p align="center">
+🚀 Full Stack Developer • 🤖 AI Enthusiast • ⚡ Problem Solver
+</p>
+
+<p align="center">
+Building intelligent, scalable systems for real-world problems
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KollipakulaNikhil&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
+<!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-- 🎓 Passionate about AI + Web Development  
-- 🤖 Building an **AI-powered Placement Portal** with smart agents  
-- ⚡ Exploring Agentic AI, LangChain, and automation systems  
-- 📈 Focused on solving real-world student placement problems  
+- 🎓 Focused on **AI + Full Stack Development**
+- 🤖 Building an **AI-powered Placement Portal**
+- ⚡ Exploring **Agentic AI, LangChain, and automation systems**
+- 📈 Passionate about solving real-world problems with technology
+- 🎯 Goal: Become a top AI Engineer & Full Stack Developer
 
 ---
 
+<!-- ================= FEATURED PROJECT ================= -->
+## 🚀 Featured Project
+
+### 🔹 AI Placement Portal  
+> Smart placement system powered by AI
+
+💡 **What it does**
+- 📄 Resume → Job Matching  
+- 📊 Match Score (%)  
+- 🛡 Fake Job Detection  
+- 🏢 Company Dashboard  
+
+🛠 **Tech Stack**
+- React.js, Node.js, Express.js  
+- MongoDB  
+- LangChain, Ollama  
+
+🔗 **Repository**  
+👉 https://github.com/KollipakulaNikhil/Placement_Portal  
+
+---
+
+<!-- ================= TECH STACK ================= -->
 ## ⚙️ Tech Stack
 
-💻 **Frontend**  
-- React.js, Tailwind CSS  
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
+</p>
 
-🛠 **Backend**  
-- Node.js, Express.js  
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-🗄 **Database**  
-- MongoDB  
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-🤖 **AI & Tools**  
-- LangChain, Ollama, OpenAI APIs  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 AI Placement Portal
-> Smart system to improve college placements using AI  
-
-✅ Resume → Job Matching  
-✅ Match Score (%)  
-✅ Fake Job Detection  
-✅ Company Dashboard  
-
-🔗 https://github.com/KollipakulaNikhil/Placement_Portal  
+### 🤖 AI / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ---
+
+<!-- ================= PROJECTS ================= -->
+## 📂 Other Projects
 
 ### 🔹 AI Agents System
-> Autonomous agents for workflow automation  
-
-✅ Multi-agent workflows  
-✅ Task automation  
-✅ AI-based decision logic  
-
----
+- Multi-agent workflows  
+- Task automation  
+- Intelligent decision-making  
 
 ### 🔹 Full Stack Applications
-> Scalable web apps with authentication and dashboards  
-
-✅ REST APIs  
-✅ Authentication systems  
-✅ Dashboard UI  
+- Authentication systems  
+- REST APIs  
+- Dashboard-based UI  
 
 ---
 
-## 📊 GitHub Stats
+<!-- ================= STATS ================= -->
+## 📊 GitHub Analytics
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KollipakulaNikhil&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KollipakulaNikhil&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KollipakulaNikhil&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KollipakulaNikhil&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+<!-- ================= STREAK ================= -->
 ## 📈 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KollipakulaNikhil&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KollipakulaNikhil&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (add your link)  
-- 📧 Email: (add your email)  
-
----
-
-## ⚡ What I'm Working On
+<!-- ================= CURRENT WORK ================= -->
+## 🧩 What I'm Currently Working On
 
 - 🚀 Enhancing AI Placement Portal  
 - 🤖 Building smarter AI agents  
-- 🌐 Deploying scalable full stack apps  
+- 🌐 Deploying scalable full stack applications  
 
 ---
 
-⭐ *"Building projects that actually solve problems — not just tutorials."*
+<!-- ================= CONTACT ================= -->
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email: your-email@example.com  
+
+---
+
+<!-- ================= QUOTE ================= -->
+## ⚡ Developer Mindset
+
+> "I build systems that solve real problems — not just projects."
