@@ -264,6 +264,7 @@ console.log("🚀 Building the future, one commit at a time!");
 **📚 Currently Pursuing:**
 - AWS Solutions Architect
 - Advanced System Design
+- AZURE Expertise Engineer
 
 </td>
 </tr>
