@@ -41,7 +41,7 @@ const nikhil = {
     achievements: {
         hackathons: ["IIT Jodhpur 🏆", "IIT Ropar 🏆", "NIT Jalandhar 🏆", "LPU AI Fest 🏆"],
         totalWins: "4+",
-        certifications: ["Azure AI-900", "Azure DP-900"]
+        certifications: ["Azure AI-900", "Azure DP-900", "Azure AI-102"]
     },
     
     currentlyWorkingOn: {
@@ -258,8 +258,9 @@ console.log("🚀 Building the future, one commit at a time!");
 
 | Certification | Provider | Year | Badge |
 |--------------|----------|------|-------|
-| **Azure AI Fundamentals** | Microsoft | 2024 | ![AI-900](https://img.shields.io/badge/AI--900-Certified-0078D4?style=flat-square&logo=microsoft) |
-| **Azure Data Fundamentals** | Microsoft | 2024 | ![DP-900](https://img.shields.io/badge/DP--900-Certified-0078D4?style=flat-square&logo=microsoft) |
+| **Azure AI Fundamentals** | Microsoft | 2025 | ![AI-900](https://img.shields.io/badge/AI--900-Certified-0078D4?style=flat-square&logo=microsoft) |
+| **Azure Data Fundamentals** | Microsoft | 2026 | ![DP-900](https://img.shields.io/badge/DP--900-Certified-0078D4?style=flat-square&logo=microsoft) |
+| **Azure AI Engineer Associate** | Microsoft | 2026 | [![AI-102](https://img.shields.io/badge/AI--102-Certified-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/NikhilKollipakula-6892/9DB63BB3E1048552?sharingId=A1F2B11199D0D32A) |
 
 **📚 Currently Pursuing:**
 - AWS Solutions Architect
