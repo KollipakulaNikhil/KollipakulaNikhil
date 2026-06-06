@@ -258,8 +258,8 @@ console.log("🚀 Building the future, one commit at a time!");
 
 | Certification | Provider | Year | Badge |
 |--------------|----------|------|-------|
-| **Azure AI Fundamentals** | Microsoft | 2025 | ![AI-900](https://img.shields.io/badge/AI--900-Certified-0078D4?style=flat-square&logo=microsoft) |
-| **Azure Data Fundamentals** | Microsoft | 2026 | ![DP-900](https://img.shields.io/badge/DP--900-Certified-0078D4?style=flat-square&logo=microsoft) |
+| **Azure AI Fundamentals** | Microsoft | 2025 | [![AI-900](https://img.shields.io/badge/AI--900-Certified-0078D4?style=flat-square&logo=microsoft)](https://www.credly.com/badges/14b41778-3ec7-4368-b628-8193e809af16/linked_in_profile) |
+| **Azure Data Fundamentals** | Microsoft | 2026 | [![DP-900](https://img.shields.io/badge/DP--900-Certified-0078D4?style=flat-square&logo=microsoft)](https://www.credly.com/badges/81795b84-e1d3-4f00-8467-6308f72d8db8/linked_in_profile) |
 | **Azure AI Engineer Associate** | Microsoft | 2026 | [![AI-102](https://img.shields.io/badge/AI--102-Certified-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/NikhilKollipakula-6892/9DB63BB3E1048552?sharingId=A1F2B11199D0D32A) |
 
 **📚 Currently Pursuing:**
